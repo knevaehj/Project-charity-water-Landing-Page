@@ -76,6 +76,20 @@ body {
     gap: 15px;
 }
 
+/* TOP SECTION TYPOGRAPHY */
+.navbar,
+.nav-links a,
+.nav-buttons button,
+.hero-content,
+.hero-content p,
+.hero-buttons button,
+.hero-icons,
+.why-content,
+.why-content p,
+.why-content a {
+    font-family: 'Playfair Display', serif;
+}
+
 /* BUTTONS */
 
 button {
@@ -294,7 +308,7 @@ button:hover {
     background-image:
     linear-gradient(rgba(0,0,0,.45),
     rgba(0,0,0,.45)),
-    url('https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200');
+    url('https://www.cmu.edu/news/stories/archives/2016/march/images/water_barrel_853x480-min.jpg');
 
     background-size: cover;
     background-position: center;
